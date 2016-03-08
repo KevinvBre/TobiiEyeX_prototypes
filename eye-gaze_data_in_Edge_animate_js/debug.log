@@ -1,0 +1,239 @@
+[0318/115842:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/115842:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/115842:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/115842:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/115842:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/115843:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0318/115851:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/115851:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/115936:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/115936:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/120145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/120145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/120222:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:61", source:  (1)
+[0318/120259:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:61", source:  (1)
+[0318/120359:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:61", source:  (1)
+[0318/120543:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:61", source:  (1)
+[0318/121257:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:61", source:  (1)
+[0318/121302:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-27324 (0)
+[0318/121302:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/jquery-2.0.3.min.js (0)
+[0318/121446:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:61", source:  (1)
+[0318/121520:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:61", source:  (1)
+[0318/121611:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:61", source:  (1)
+[0318/121626:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:61", source:  (1)
+[0318/121643:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:61", source:  (1)
+[0318/122021:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:63", source:  (1)
+[0318/122024:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-38357 (0)
+[0318/122024:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/jquery-2.0.3.min.js (0)
+[0318/122102:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:63", source:  (1)
+[0318/122523:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/an.canvas.overlay.min.js (42)
+[0318/122523:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/an.canvas.overlay.min.js (42)
+[0318/122943:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:63", source:  (1)
+[0318/132657:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132702:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132707:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132712:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132717:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132717:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/132717:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/132718:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/132718:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132718:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132718:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132719:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0318/132722:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132726:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132726:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132726:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132727:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132732:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132737:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132742:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132747:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132752:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132757:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132759:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132759:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132759:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132802:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132807:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132812:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132817:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132822:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132823:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132823:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/132825:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132825:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132829:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132829:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132838:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132838:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132920:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132920:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/132948:INFO:CONSOLE(1)] "TypeError: Cannot call method '_getTimeline' of undefined
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/breem_000/Desktop/edge/test_website_methovers_v2/edge_includes/edge.authoring.5.0.1.min.js:73:477)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:55)
+    at <anonymous>:0:59", source:  (1)
+[0318/133122:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/133122:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/133442:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/133442:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/133442:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/133449:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/133449:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/133458:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/133458:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/135644:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/135644:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/141217:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/141217:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/141311:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/141311:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/141311:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0318/141311:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/141311:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/141313:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0318/141320:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/141320:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/141402:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/141402:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/142023:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/142023:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143732:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143732:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143732:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143739:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143739:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143748:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143748:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143756:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143756:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143805:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143805:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143820:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143820:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143820:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143825:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143825:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143829:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143829:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143838:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143838:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143919:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143919:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143926:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143926:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143935:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143935:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143940:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143940:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143949:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143949:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143956:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/143956:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/144005:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/144005:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/144817:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/144817:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150315:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150315:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150504:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150504:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150513:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150513:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150516:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150516:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150525:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150525:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150528:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150528:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150537:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150537:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150555:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150555:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150555:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150602:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150602:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150611:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150611:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150617:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150617:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150626:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150626:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150738:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/150738:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151404:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151404:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151413:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151413:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151435:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151435:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151444:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151444:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151501:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151501:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151501:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151509:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151509:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151509:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151711:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151711:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151721:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/151721:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154129:WARNING:dns_config_service_win.cc(653)] Failed to read DnsConfig.
+[0318/154133:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154133:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154136:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154136:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154912:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154912:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0318/154912:ERROR:ipc_channel_win.cc(405)] pipe error: 232
